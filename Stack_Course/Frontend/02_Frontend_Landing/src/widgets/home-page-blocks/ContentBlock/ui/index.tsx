@@ -41,7 +41,7 @@ export const HomeContentBlock = () => {
 					</div>
 				</div>
 			</div>
-			{/* Работа с треугольничками */}
+			{/* Работа с прямоугольниками */}
 			<div className={styles.rectangle}>
 				<div className={styles.rectangleTop}>
 					<Rectangle
